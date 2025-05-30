@@ -1,0 +1,30 @@
+{
+  "python": [
+    "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+    "https://www.learnpython.org/"
+  ],
+  "sql": [
+    "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+    "https://www.w3schools.com/sql/"
+  ],
+  "excel": [
+    "https://www.youtube.com/watch?v=8lXerFO4L3g",
+    "https://exceljet.net/"
+  ],
+  "power bi": [
+    "https://www.youtube.com/watch?v=AGrl-H87pRU",
+    "https://learn.microsoft.com/en-us/power-bi/"
+  ],
+  "tableau": [
+    "https://www.youtube.com/watch?v=4kKJuZk0ieU",
+    "https://www.tableau.com/learn/training"
+  ],
+  "statistics": [
+    "https://www.khanacademy.org/math/statistics-probability",
+    "https://www.youtube.com/watch?v=xxpc-HPKN28"
+  ],
+  "pandas": [
+    "https://www.youtube.com/watch?v=vmEHCJofslg",
+    "https://pandas.pydata.org/docs/getting_started/index.html"
+  ]
+}

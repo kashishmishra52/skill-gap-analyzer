@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Data Analyst",
+    "description": "We are looking for a data analyst skilled in Python, SQL, Excel, and data visualization tools like Power BI or Tableau. Knowledge of statistics and Pandas is a plus."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Should have strong knowledge of machine learning, Python, Scikit-learn, TensorFlow, NumPy, and model deployment using Flask or FastAPI."
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "Proficient in HTML, CSS, JavaScript, React, and frontend tools. Understanding of REST APIs and Git required."
+  }
+]
